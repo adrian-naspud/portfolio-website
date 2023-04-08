@@ -12,12 +12,12 @@
 
 ### Screenshot
 
-![](./images/portfolio-project.png)
+![](./images/Portfolio_Website_Mockup.png)
 
 ### Links
 
-- Solution URL: [https://github.com/Mister-Zeng/Portfolio-Website]
-- Live Site URL: [https://www.jasonz.dev]
+- Solution URL: [https://github.com/adrian-naspud/portfolio-website]
+- Live Site URL: [https://adrian-naspud.github.io/portfolio-website/]
 
 
 ### Built with
