@@ -28,4 +28,4 @@
 
 ## Author
 
-- Website - [Adrian Naspud](https://github.com/adrian-naspud/portfolio-website)
+- Website - [Adrian Naspud](https://adrian-naspud.github.io/portfolio-website/)
