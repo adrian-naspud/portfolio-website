@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/]
-- Live Site URL: [https://]
+- Solution URL: [https://github.com/Mister-Zeng/Portfolio-Website]
+- Live Site URL: [https://www.jasonz.dev]
 
 
 ### Built with
@@ -28,5 +28,5 @@
 
 ## Author
 
-- Website - 
-- Twitter - 
+- Website - [Jason Zeng](https://mister-zeng.github.io/Portfolio-Website/)
+- Twitter - [@misterzeng](https://www.twitter.com/misterzeng)
