@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![](./images/Portfolio_Website_Mockup.png)
+![](./images/portfolio-project.png)
 
 ### Links
 
