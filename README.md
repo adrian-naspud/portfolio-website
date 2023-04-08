@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![](./images/portfolio_project)
+![](./images/portfolio project)
 
 ### Links
 
