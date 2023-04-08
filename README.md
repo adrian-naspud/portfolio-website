@@ -28,5 +28,4 @@
 
 ## Author
 
-- Website - [Jason Zeng](https://mister-zeng.github.io/Portfolio-Website/)
-- Twitter - [@misterzeng](https://www.twitter.com/misterzeng)
+- Website - [Jason Zeng](https://github.com/adrian-naspud/portfolio-website)
