@@ -418,7 +418,7 @@ li {
   flex-direction: column;
 }
 
-.flashgram,
+.portfolio-website,
 .ai-ask-me,
 .tip-calculator,
 .advice-generator,
@@ -674,7 +674,7 @@ footer {
   }
 
   .advice-generator,
-  .ai-ask-me,
+  .portfolio-website,
   .flashgram,
   .ip-address-tracker,
   .tip-calculator,
